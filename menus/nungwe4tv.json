@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nungwe4tv",
+        "command": "nungwe4tv:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nungwe4tv",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "nungwe4tv:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
