@@ -4,11 +4,13 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
+	"movie",
+	"nung"
   ],
   "activationCommands": {
     "atom-workspace": "nungwe4tv:toggle"
   },
-  "repository": "https://github.com/atom/nungwe4tv",
+  "repository": "https://github.com/ssnn12043/nungwe4tv",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
